@@ -1,0 +1,5 @@
+{
+  "emailConfig": { "recipient": "user@example.com", "subject": "Order confirmed" },
+  "title": "Your order is confirmed",
+  "message": "Order #1042 will arrive on Friday."
+}

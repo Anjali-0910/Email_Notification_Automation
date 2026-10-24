@@ -1,0 +1,6 @@
+{
+  "emailConfig": { "recipient": "oncall@example.com", "subject": "Payment service down" },
+  "priority": "critical",
+  "title": "Payments are failing",
+  "message": "The payment service has returned errors for 5 minutes."
+}

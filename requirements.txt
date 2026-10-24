@@ -1,0 +1,5 @@
+# Local UI and logic need only the Python standard library.
+# Added later for Azure:
+# azure-functions
+# azure-communication-email
+# azure-identity
